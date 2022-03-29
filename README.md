@@ -1,7 +1,7 @@
 ## Hello! Welcome 🤗
 
 #### I am a...
-- 🖥️ Current Software Engineering Teaching Fellow for The Grace Hopper Program 
+- 🖥️ Current Software Engineering Apprentice at Pinterest 
 - 👸🏻 Former Disney Princess and Performer for Disney Theme Parks and Events worldwide
 - 🐱 Cat Mom to Luna (as in Lovegood, but also as in Sailor Moon)
 
