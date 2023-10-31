@@ -1,12 +1,12 @@
 ## Hello! Welcome 🤗
 
 #### I am a...
-- 🖥️ Current Software Engineering Apprentice at Pinterest 
+- 🖥️ Current Software Engineer at Pinterest 
 - 👸🏻 Former Disney Princess and Performer for Disney Theme Parks and Events worldwide
 - 🐱 Cat Mom to Luna (as in Lovegood, but also as in Sailor Moon)
 
 #### I am currently...
-- 💻 Creating a website with the PERN stack for my dance teacher 
+- 💻 Updating my portfolio to represent both my engineering and artistic self 
 - 🤸🏻‍♀️ Practicing handstands and contortion in my living room
 
 #### Call me, beep me, if you wanna reach me...
